@@ -1,11 +1,23 @@
 # nyami
+![PyPi](https://img.shields.io/pypi/v/nyami)
+![PyPi-Versions](https://img.shields.io/pypi/pyversions/nyami)
 ![license](https://img.shields.io/github/license/cyschneck/nyami)
 [![repo-status](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-River mapping and analysis in Python 🐍 
+Automated river mapping and analysis in Python 🐍 
 
 > [!NOTE]
-> This is Beta quality software that is being actively developed, use at your own risk. This project is not supported or endorsed by either JPL, NASA, or NCAR. The code is provided “as is”, use at your own risk.
+> This is Beta quality software that is being actively developed, use at your own risk. This project is not supported or endorsed by JPL, NASA, or NCAR. The code is provided “as is”, use at your own risk.
+
+## Overview
+Nyami (named for [_Nyami Nyami_](https://en.wikipedia.org/wiki/Nyami_Nyami) the Zambezi River god and snake spirit) 
+
+Nyami provides for river analysis of meandering, single, and multi-threaded rivers
+
+## Roadmap
+
+- Automatic channel network extraction from remotely sensed images
+- Analysis for meandering, single and multi-threaded rivers
 
 ## Install
 
@@ -14,9 +26,6 @@ TODO
 ## Quickstart: nyami
 
 TODO
-
-## Overview
-Nyami (named for [_Nyami Nyami_](https://en.wikipedia.org/wiki/Nyami_Nyami) the Zambezi River god and snake spirit) 
 
 ## Acknowledging Software 
 

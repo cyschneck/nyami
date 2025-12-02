@@ -16,6 +16,10 @@ Nyami provides for river analysis of meandering, single, and multi-threaded rive
 
 ## Roadmap
 
+Future parent package to [`centerline-width`](https://github.com/cyschneck/centerline-width):
+
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=cyschneck&repo=centerline-width)](https://github.com/cyschneck/centerline-width)
+
 - Automatic channel network extraction from remotely sensed images
 - Analysis for meandering, single and multi-threaded rivers
 
